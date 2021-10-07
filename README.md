@@ -5,7 +5,7 @@ simple react project after long brake
 
 ---
 
-[here](https://unidentifiedraccoon.github.io/react-expense-tracker/index.html)
+[here](https://unidentifiedraccoon.github.io/React-expense-tracker/index.html)
 
 
 ### Thanks
