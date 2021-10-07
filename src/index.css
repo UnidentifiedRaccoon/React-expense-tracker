@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  width: 100vw;
+  font-family: 'Noto Sans JP', sans-serif;
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  background-color: #3f3f3f;
+}
+
+::-webkit-scrollbar {
+  top: 0;
+  right: 0;
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+
+  -webkit-box-shadow: 5px 5px 5px -5px rgba(34, 60, 80, 0.2) inset;
+  background-color: #f9f9fd;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+
+  border-radius: 10px;
+  background: linear-gradient(180deg, rgb(121, 119, 244)0%, rgb(115, 24, 244) 50%, rgb(121, 119, 244) 100%) ;
+}
+
